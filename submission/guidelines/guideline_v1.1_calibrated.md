@@ -1,4 +1,4 @@
-# Label contract — Phố châu Á — BỔ SUNG v1.1 — <<MSHV - Họ tên>>
+# Label contract — Phố châu Á — BỔ SUNG v1.1 — <<202603032 - Họ tên>>
 
 > **Chỉ viết phần thay đổi so với v1.0** (không copy cả file). Chốt các câu hỏi mở ở mục 6 của v1.0 (hoặc nói rõ câu nào chưa chốt, vì sao)
 > và thêm quy tắc mới rút ra từ lỗi của máy / lỗi của bạn. Mỗi ca khó **có ảnh ví dụ** (`img_0xx`) và khớp một dòng trong `qc/calibration_decisions.csv`.
@@ -7,7 +7,7 @@
 
 | # | Câu hỏi | Quyết định | Ảnh ví dụ | `case_id` |
 |---|---|---|---|---|
-| <<1>> | <<xe đạp điện: bicycle hay motorbike?>> | <<>> | <<img_0xx>> | <<CAL-01>> |
+| <<1>> | <<xe đạp điện: bicycle hay motorbike?>> | motorbike | <<img_022>> |  |
 
 ## 2. Ca khó mới (từ lỗi của máy, bẫy lọt, box `can_review`)
 

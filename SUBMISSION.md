@@ -2,13 +2,9 @@
 
 ## Repo bài nộp
 
-Mỗi học viên **một repo public**: fork repo đề, đổi tên theo mẫu.
 
-| Mẫu tên repo | Ví dụ |
-|---|---|
-| `K5-L23-DAY08-[MSHV]-[HoTen]-AIPrelabel` | `K5-L23-DAY08-22001234-NguyenVanA-AIPrelabel` |
+K5-L23-Day08-TranDuyDan-202603032-AI-Assisted-Labeling 
 
-`HoTen` không dấu, viết liền. Theo hướng dẫn lớp nếu giảng viên đặt quy ước khác.
 
 ## Trước khi nộp
 
